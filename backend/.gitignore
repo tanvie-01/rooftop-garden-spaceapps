@@ -1,0 +1,4 @@
+venv/
+garden.db
+.env
+__pycache__/

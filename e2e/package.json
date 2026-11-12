@@ -1,0 +1,12 @@
+{
+  "name": "rooftop-garden-e2e",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pages": "node pages.mjs",
+    "login-chat": "node login-chat.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.55.0"
+  }
+}

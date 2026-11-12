@@ -1,0 +1,36 @@
+# গোপন তথ্য: কখনো commit করবে না
+.env
+.env.*
+!.env.example
+.netrc
+
+# স্থানীয় ডেটাবেস (প্রত্যেকের নিজের বাগানের ডেটা)
+*.db
+*.db-journal
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js (frontend/.gitignore-এও আছে)
+node_modules/
+.next/
+*.tsbuildinfo
+
+# ডাউনলোড করা NASA ডেটা (tools/download_imerg_earthaccess.py দিয়ে আবার আনা যায়)
+tools/data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# ব্রাউজার টেস্টের ফল
+e2e/shots*/
+
+# কমিউনিটির লোকাল ছবি (live-এ Supabase Storage-এ থাকে)
+backend/uploads/
+
+# দলের ভেতরের নোট (Claude-এর কাজের খাতা), public repo-তে নয়
+CLAUDE.md

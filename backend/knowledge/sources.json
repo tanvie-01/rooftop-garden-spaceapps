@@ -1,0 +1,15 @@
+[
+  {
+    "file": "project-draft-disease-guide.md",
+    "title": "Rooftop Garden প্রকল্পের খসড়া রোগ গাইড (যাচাই হয়নি)",
+    "publisher": "Rooftop Garden team",
+    "source_url": "",
+    "publication_year": 2026,
+    "language": "bn",
+    "region": "Bangladesh",
+    "plant_species": ["tomato", "chili"],
+    "topic": ["disease"],
+    "license": "project-internal",
+    "version": "1"
+  }
+]

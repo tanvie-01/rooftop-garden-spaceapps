@@ -148,7 +148,7 @@ tools/      data scripts
 > Crop, disease and remedy advice is drafted from official and university sources but **not yet reviewed by an agricultural expert**. That review, with partners like the Department of Agricultural Extension, is our next step. The AI can be wrong, and the app says so; heavy pest attacks are sent to the Upazila Agriculture Office (কৃষি কল সেন্টার 16123).
 
 > [!TIP]
-> **Use of AI tools.** We built this with help from AI coding assistants, **Claude (Anthropic)** and **ChatGPT (OpenAI)**; commits made with Claude carry a `Co-Authored-By` line, and every change was run and tested by the team. Inside the app, the chat uses Google Gemini. The story clips in our pitch video were made with Google Flow; the app demo is a real screen recording.
+> **Use of AI tools.** We built this with help from AI coding assistants, **Claude (Anthropic)** and **ChatGPT (OpenAI)**; every change was reviewed, run and tested by the team. Inside the app, the chat uses Google Gemini. The story clips in our pitch video were made with Google Flow; the app demo is a real screen recording.
 
 ## 👥 Team
 

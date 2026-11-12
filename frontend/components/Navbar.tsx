@@ -347,7 +347,7 @@ export default function Navbar() {
       className="sticky top-0 z-50 rounded-b-[1.75rem] border-b border-white/60 bg-gradient-to-b from-white/85 to-green-50/55 shadow-[0_8px_24px_-18px_rgba(20,83,45,0.35)] backdrop-blur-xl"
     >
       <div
-        className={`relative z-20 mx-auto flex max-w-6xl items-center justify-between px-5 transition-[padding] duration-[750ms] ease-[cubic-bezier(0.65,0,0.35,1)] ${
+        className={`relative z-20 mx-auto flex max-w-6xl items-center justify-between px-5 transition-[padding] has-[[aria-expanded=true]]:z-40 duration-[750ms] ease-[cubic-bezier(0.65,0,0.35,1)] ${
           compact ? "py-2" : "py-3"
         }`}
       >
